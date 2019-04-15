@@ -1,0 +1,3 @@
+[submodule "3rdparty/NodeMCU-HTTP-Server"]
+	path = 3rdparty/NodeMCU-HTTP-Server
+	url = https://github.com/wangzexi/NodeMCU-HTTP-Server.git
